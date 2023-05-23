@@ -1,11 +1,12 @@
-#Expense Graph Chart using React, JavaScript, CSS, HTML
+# Expense Graph Chart using React, JavaScript, CSS, HTML
 
-Link: https://quiet-conkies-edbf05.netlify.app/
+## Link: https://quiet-conkies-edbf05.netlify.app/
+
 Users can click on the "Add Expense" button to input their purchase costs and items. They can also add additional information about each expense. 
 Through the graph chart, users can compare their monthly spending and track how much they have spent over time.
 
 
-##Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App].
 (It has not finished yet, still working on)
